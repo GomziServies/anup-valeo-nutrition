@@ -42683,6 +42683,13 @@ ul.woocommerce-product-subcategories li .count-product {
   }
 }
 
+.price-discount{
+  color: #0f9d58;
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+
 .contents-detail
   .bwp-single-product.slider
   .bwp-single-info
